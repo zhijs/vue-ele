@@ -23,4 +23,5 @@ npm run dev
 
 ### 效果图
 <br/>
-![ ] (./resource/外卖01_商品页.jpg)
+
+![ ](resource/外卖01_商品页.jpg)
